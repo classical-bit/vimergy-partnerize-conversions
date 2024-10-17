@@ -1,0 +1,13 @@
+{
+    "events": [
+        {
+            "logStreamName": "2024/09/04/[$LATEST]070796ce1789470e97452d138a29e906",
+            "timestamp": 1725474853597,
+            "message": "2024-09-04T18:34:13.597Z\t657b60e2-dfd6-423f-af6e-15878c9e3cf5\tINFO\tevent {\n  version: '2.0',\n  routeKey: 'POST /partnerize-event-api',\n  rawPath: '/prod/partnerize-event-api',\n  rawQueryString: '',\n  headers: {\n    accept: '*/*',\n    'accept-encoding': 'gzip, deflate, br',\n    'accept-language': 'en-US,en;q=0.9',\n    'content-length': '346',\n    'content-type': 'text/plain;charset=UTF-8',\n    host: 'damd2qxkpf.execute-api.us-east-1.amazonaws.com',\n    origin: 'null',\n    referer: 'https://vimergy.com/',\n    'sec-fetch-dest': 'empty',\n    'sec-fetch-mode': 'no-cors',\n    'sec-fetch-site': 'cross-site',\n    'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1',\n    'x-amzn-trace-id': 'Root=1-66d8a825-7d1fe513756fb57b640b0f40',\n    'x-forwarded-for': '98.184.211.212',\n    'x-forwarded-port': '443',\n    'x-forwarded-proto': 'https'\n  },\n  requestContext: {\n    accountId: '533267408903',\n    apiId: 'damd2qxkpf',\n    domainName: 'damd2qxkpf.execute-api.us-east-1.amazonaws.com',\n    domainPrefix: 'damd2qxkpf',\n    http: {\n      method: 'POST',\n      path: '/prod/partnerize-event-api',\n      protocol: 'HTTP/1.1',\n      sourceIp: '98.184.211.212',\n      userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1'\n    },\n    requestId: 'dl816gCUIAMEYrQ=',\n    routeKey: 'POST /partnerize-event-api',\n    stage: 'prod',\n    time: '04/Sep/2024:18:34:13 +0000',\n    timeEpoch: 1725474853552\n  },\n  body: '{\"campaignId\":\"1101l6322\",\"customerId\":\"6220296552618\",\"email\":\"manuelandmarie@aol.com\",\"clickref\":\"\",\"conversionref\":\"6124393234602\",\"country\":\"US\",\"currency\":\"USD\",\"voucher\":\"BTS24-PC\",\"requestStr\":\"/[category:Organic Liquid Ashwagandha/sku:ASHWAG-115/value:29/quantity:1]/[category:Organic Liquid Zinc(Full)/sku:ZINC-100/value:39/quantity:1]\"}',\n  isBase64Encoded: false\n}\n",
+            "ingestionTime": 1725474856758,
+            "eventId": "38479375056538627666748494801674831997695098187281006593"
+        }
+    ],
+    "searchedLogStreams": [],
+    "nextToken": "Bxkq6kVGFtq2y_MoigeqscPOdhXVbhiVtLoAmXb5jCr2FxddkdzCWxWBaNg-R5jV2t4czdQZ38RpSgbSSa_FJFUIqLfpOB0OdD2aXw8Yj2Uj2awsKlfRNy6nAt7yXzSfykAwKuNXy1tylky840ngjV7p15yblgw2ZUYCs2MMDgKnN7hjnMnKusXPRPIAbMwyNLMscjaB_fJJNuQ_2RLlbIVwjWwHrj3Sno7tRJDPsgFjF6ZoylZB8uW1747bZ1a-GnfDSDUW14Z5xmbBuH2Tvg"
+}

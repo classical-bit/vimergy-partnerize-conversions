@@ -1,0 +1,9 @@
+[
+    {
+        "logStreamName": "2024/09/05/[$LATEST]ff4167a70ea94a04843d3bfab91259eb",
+        "timestamp": 1725555865758,
+        "message": "2024-09-05T17:04:25.758Z\t1f9972b9-aa44-4759-9113-1bf77f0d5a87\tINFO\tbody {\n  campaignId: '1101l6322',\n  customerId: '2149418008618',\n  email: 'pathofprevention@aol.com',\n  clickref: '',\n  conversionref: '6125950992554',\n  country: 'US',\n  currency: 'USD',\n  voucher: '',\n  requestStr: '/[category:MSM/sku:MSM-120/value:32.3/quantity:1]/[category:Micro-C Immune Power™* Powder(Full)/sku:MCPOW-250/value:54.15/quantity:1]'\n}\n",
+        "ingestionTime": 1725555868882,
+        "eventId": "38481181688099071006553965156719607703322525426929172483"
+    },
+]
